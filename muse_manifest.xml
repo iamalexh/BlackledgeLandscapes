@@ -1,0 +1,219 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackledgelandscapes.com" resolutions="1x" timestamp="1604430400842">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_galleries.css" crc="454194726" ref="driveway:garden:patio:porch"/>
+    <file name="master_a-master.css" crc="3958045536" ref="driveway:contact:index:garden:portfolio-of-work:patio:services:thank-you:porch"/>
+    <file name="master_main.css" crc="262201269" ref="contact:index:portfolio-of-work:services"/>
+    <file name="driveway.css" crc="112328495" ref="driveway"/>
+    <file name="contact.css" crc="3943799755" ref="contact"/>
+    <file name="index.css" crc="396434885" ref="index"/>
+    <file name="garden.css" crc="3787567961" ref="garden"/>
+    <file name="portfolio-of-work.css" crc="4106576611" ref="portfolio-of-work"/>
+    <file name="patio.css" crc="4065428601" ref="patio"/>
+    <file name="services.css" crc="4796210" ref="services"/>
+    <file name="thank-you.css" crc="4109245238" ref="thank-you"/>
+    <file name="porch.css" crc="324350013" ref="porch"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>services:phone>portfolio-of-work:phone>garden:phone>porch:phone>driveway:phone>patio:phone>contact:phone>thank-you:index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>services:phone>portfolio-of-work:phone>garden:phone>porch:phone>driveway:phone>patio:phone>contact:phone>thank-you:index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>services:phone>portfolio-of-work:phone>garden:phone>porch:phone>driveway:phone>patio:phone>contact:phone>thank-you:index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>services:phone>portfolio-of-work:phone>garden:phone>porch:phone>driveway:phone>patio:phone>contact:phone>thank-you:index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>services:phone>portfolio-of-work:phone>garden:phone>porch:phone>driveway:phone>patio:phone>contact:phone>thank-you:index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>services:phone>portfolio-of-work:phone>garden:phone>porch:phone>driveway:phone>patio:phone>contact:phone>thank-you:index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u540.php" crc="330487885" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logoi.jpg" crc="4102969110" seo="true" ref="index:portfolio-of-work:services:contact:driveway:patio:porch:garden:thank-you">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="driveway" alt=""/>
+      <caption webpage="garden" alt=""/>
+      <caption webpage="patio" alt=""/>
+      <caption webpage="portfolio-of-work" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="porch" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+    </file>
+    <file name="img_0114.jpg" crc="4179118472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0601.jpg" crc="362369698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0604.jpg" crc="55581685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003.jpg" crc="494964495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005.jpg" crc="371074279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="011.jpg" crc="3842621335" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted image 405x304.jpg" crc="136301565" seo="true" ref="portfolio-of-work">
+      <caption webpage="portfolio-of-work" alt=""/>
+    </file>
+    <file name="dsc00667.jpg" crc="242716571" seo="true" ref="portfolio-of-work">
+      <caption webpage="portfolio-of-work" alt=""/>
+    </file>
+    <file name="pasted image 433x323.jpg" crc="83862847" seo="true" ref="portfolio-of-work">
+      <caption webpage="portfolio-of-work" alt=""/>
+    </file>
+    <file name="pasted image 435x326.jpg" crc="4000822350" seo="true" ref="portfolio-of-work">
+      <caption webpage="portfolio-of-work" alt=""/>
+    </file>
+    <file name="img_0107.jpg" crc="3978453186" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="img_0365.jpg" crc="4115831637" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="img_0340 (1).jpg" crc="4232372765" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="dsc00649.jpg" crc="330360955" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="dsc00646.jpg" crc="3875030959" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="dsc00645.jpg" crc="4220645848" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="dsc00644.jpg" crc="193186640" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="dsc00643.jpg" crc="170963165" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="dsc00647.jpg" crc="3989530343" seo="true" ref="driveway">
+      <caption webpage="driveway" alt=""/>
+    </file>
+    <file name="img_0104.jpg" crc="3878004365" seo="true" ref="patio">
+      <caption webpage="patio" alt=""/>
+    </file>
+    <file name="img_0110.jpg" crc="4260329935" seo="true" ref="patio">
+      <caption webpage="patio" alt=""/>
+    </file>
+    <file name="img_0105.jpg" crc="350105577" seo="true" ref="patio">
+      <caption webpage="patio" alt=""/>
+    </file>
+    <file name="img_0118.jpg" crc="4034421554" seo="true" ref="patio">
+      <caption webpage="patio" alt=""/>
+    </file>
+    <file name="img_0112.jpg" crc="3777840432" seo="true" ref="patio">
+      <caption webpage="patio" alt=""/>
+    </file>
+    <file name="img_0124.jpg" crc="308704425" seo="true" ref="patio">
+      <caption webpage="patio" alt=""/>
+    </file>
+    <file name="dsc00653.jpg" crc="275281164" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="img_0329.jpg" crc="30840559" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00654.jpg" crc="3855372268" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00571.jpg" crc="39518258" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00673.jpg" crc="4214009128" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc006672.jpg" crc="4259241142" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="img_0335.jpg" crc="3775406483" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00674.jpg" crc="308946385" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00669.jpg" crc="4130472546" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00675.jpg" crc="519233450" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00658.jpg" crc="352792324" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="dsc00662.jpg" crc="363458115" seo="true" ref="porch">
+      <caption webpage="porch" alt=""/>
+    </file>
+    <file name="img_0587.jpg" crc="229167651" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0588.jpg" crc="4060572031" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0598.jpg" crc="406450891" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_06042.jpg" crc="4122143228" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0606.jpg" crc="3955971182" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0607.jpg" crc="4061523733" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0609.jpg" crc="122684658" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0611.jpg" crc="3767745295" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+    <file name="img_0612.jpg" crc="4051685834" seo="true" ref="garden">
+      <caption webpage="garden" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="183015926" ref="phone>index"/>
+      <file name="contact.css" crc="183015926" ref="phone>contact"/>
+      <file name="porch.css" crc="183015926" ref="phone>porch"/>
+      <file name="garden.css" crc="183015926" ref="phone>garden"/>
+      <file name="portfolio-of-work.css" crc="183015926" ref="phone>portfolio-of-work"/>
+      <file name="driveway.css" crc="183015926" ref="phone>driveway"/>
+      <file name="patio.css" crc="183015926" ref="phone>patio"/>
+      <file name="services.css" crc="183015926" ref="phone>services"/>
+      <file name="thank-you.css" crc="183015926" ref="phone>thank-you"/>
+    </folder>
+    <file name="index.html" crc="3833003512" seo="true" mt="1454097701427" redirect="false"/>
+    <file name="services.html" crc="454519076" seo="true" mt="1454097701428" redirect="false"/>
+    <file name="portfolio-of-work.html" crc="497928199" seo="true" mt="1454097701429" redirect="false"/>
+    <file name="garden.html" crc="151323539" seo="true" mt="1454097701430" redirect="false"/>
+    <file name="porch.html" crc="426111304" seo="true" mt="1454097701431" redirect="false"/>
+    <file name="driveway.html" crc="3858879530" seo="true" mt="1454097701432" redirect="false"/>
+    <file name="patio.html" crc="3948494900" seo="true" mt="1454097701433" redirect="false"/>
+    <file name="contact.html" crc="67759411" seo="true" mt="1454097701434" redirect="false"/>
+    <file name="thank-you.html" crc="277302821" seo="true" mt="1454097701435" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="453288307" seo="true" mt="1455897696063" redirect="true"/>
+  <file name="portfolio-of-work.html" crc="231531618" seo="true" mt="1455897696063" redirect="true"/>
+  <file name="services.html" crc="382368684" seo="true" mt="1455897696063" redirect="true"/>
+  <file name="contact.html" crc="473603028" seo="true" mt="1455897696063" redirect="true"/>
+  <file name="driveway.html" crc="3850157110" seo="true" mt="1455897701882" redirect="true"/>
+  <file name="patio.html" crc="3845917522" seo="true" mt="1455897701882" redirect="true"/>
+  <file name="porch.html" crc="39513081" seo="true" mt="1455897701882" redirect="true"/>
+  <file name="garden.html" crc="4087343976" seo="true" mt="1455897701882" redirect="true"/>
+  <file name="thank-you.html" crc="3761944938" seo="true" mt="1455897689835" redirect="true"/>
+</manifest>
